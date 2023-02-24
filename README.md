@@ -1,22 +1,22 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415409/60740/man-medium-skin-tone-beard.gif?1660415409" width="30"/> 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖</h2>
-I am a software engineer 
+Je suis un software engineer 
 
 
-<h2><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> 𝕎𝕒𝕥𝕔𝕙 𝕞𝕪 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙 𝕘𝕖𝕥 𝕖𝕒𝕥𝕖𝕟 𝕓𝕪 𝕥𝕙𝕖 𝕊𝕟𝕒𝕜𝕖</h2>
+<h2><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> Regardez mon graphique de contribution se faire manger par le serpent </h2>
 
 ![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
 
 
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415433/60795/folded-hands.gif?1660415433" width="30"/> 𝕃𝕖𝕥’𝕤 ℂ𝕠𝕟𝕟𝕖𝕔𝕥</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415433/60795/folded-hands.gif?1660415433" width="30"/> Connectons-nous</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joemonkila45) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-monkila-b55634211) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/joemonkila) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://api.whatsapp.com/send?phone=243816717846&texte=Bonjour_Monkila) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%231DA1F2.svg?logo=WhatsaApp&logoColor=white)](https://api.whatsapp.com/send?phone=243816717846&texte=Bonjour_Monkila) 
 
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415359/60631/robot.gif?1660415359" width="30"/> 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415359/60631/robot.gif?1660415359" width="30"/></h2>
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
