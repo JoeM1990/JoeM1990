@@ -20,12 +20,15 @@ I am a software engineer
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-![ANGUALR](https://img.shields.io/badge/angular-%231572B6.svg?style=for-the-badge&logo=angular3&logoColor=white) 
+![AngularJs](https://img.shields.io/badge/angularjs-%231572B6.svg?style=for-the-badge&logo=angularjs3&logoColor=white) 
+![WORDPRESS](https://img.shields.io/badge/wordpress-%231572B6.svg?style=for-the-badge&logo=wordpress3&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-%2302569B.svg?style=for-the-badge&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-%2302569B.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
