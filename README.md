@@ -4,7 +4,7 @@
 Je suis un software engineer.
 
 
-<h2><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> Regardez mon graphique de contribution se faire manger par le serpent </h2>
+<h2><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> 𝕎𝕒𝕥𝕔𝕙 𝕞𝕪 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙 𝕘𝕖𝕥 𝕖𝕒𝕥𝕖𝕟 𝕓𝕪 𝕥𝕙𝕖 𝕊𝕟𝕒𝕜𝕖 </h2>
 
 ![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
 
