@@ -46,3 +46,4 @@ I am a software engineer
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)  
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-FF6C37?style=for-the-badge&logo=chatgpt&logoColor=white)
