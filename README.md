@@ -22,7 +22,8 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-![AngularJs](https://img.shields.io/badge/angularjs-%231572B6.svg?style=for-the-badge&logo=angularjs3&logoColor=white) 
+![IA](https://img.shields.io/badge/ia-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Angular](https://img.shields.io/badge/angularjs-%231572B6.svg?style=for-the-badge&logo=angularjs3&logoColor=white) 
 ![WORDPRESS](https://img.shields.io/badge/wordpress-%231572B6.svg?style=for-the-badge&logo=wordpress3&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -43,7 +44,6 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![IA](https://img.shields.io/badge/ia-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)  
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-FF6C37?style=for-the-badge&logo=chatgpt&logoColor=white)
