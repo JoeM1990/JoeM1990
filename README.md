@@ -23,7 +23,7 @@
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 ![IA](https://img.shields.io/badge/ia-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Angular](https://img.shields.io/badge/angularjs-%231572B6.svg?style=for-the-badge&logo=angularjs3&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%231572B6.svg?style=for-the-badge&logo=angularjs3&logoColor=white) 
 ![WORDPRESS](https://img.shields.io/badge/wordpress-%231572B6.svg?style=for-the-badge&logo=wordpress3&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
