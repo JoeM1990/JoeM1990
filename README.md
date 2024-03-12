@@ -20,7 +20,7 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415359/60631/robot.gif?1660415359" width="30"/></h2>
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 ![IA](https://img.shields.io/badge/ia-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%231572B6.svg?style=for-the-badge&logo=angularjs3&logoColor=white) 
