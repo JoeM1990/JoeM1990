@@ -4,7 +4,7 @@
 #I am a software engineer
 
 
-<h2><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> 𝕎𝕒𝕥𝕔𝕙 𝕞𝕪 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙 𝕘𝕖𝕥 𝕖𝕒𝕥𝕖𝕟 𝕓𝕪 𝕥𝕙𝕖 𝕊𝕟𝕒𝕜𝕖 </h2>
+<h2><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> 𝕎𝕒𝕥𝕔𝕙 𝕞𝕪 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙 𝕘𝕖𝕥 𝕖𝕒𝕥𝕖𝕟 𝕓𝕪 𝕥𝕙𝕖 𝕊𝕟𝕒𝕜𝕖  </h2>
 
 ![snake gif](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
@@ -29,6 +29,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%23777BB4.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/c-%23777BB4.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![JAVA](https://img.shields.io/badge/java-%2302569B.svg?style=for-the-badge&logo=java&logoColor=white)
