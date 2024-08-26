@@ -15,8 +15,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/joemonkila) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%231DA1F2.svg?logo=WhatsaApp&logoColor=white)](https://api.whatsapp.com/send?phone=243816717846&texte=Bonjour_Monkila) 
 
-
-<p align='center'><h2><img src="https://emojis.slackmojis.com/emojis/images/1660415359/60631/robot.gif?1660415359" width="30"/></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415359/60631/robot.gif?1660415359" width="30"/></h2>
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
