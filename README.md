@@ -6,7 +6,6 @@
 
 ![snake gif](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415433/60795/folded-hands.gif?1660415433" width="30"/> 𝕃𝕖𝕥’𝕤 ℂ𝕠𝕟𝕟𝕖𝕔𝕥</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joemonkila45) 
