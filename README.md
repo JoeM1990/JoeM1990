@@ -42,7 +42,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)  
 [![Flutter Responsive](https://img.shields.io/badge/flutter-responsive-brightgreen.svg?style=flat-square)](https://github.com/Codelessly/ResponsiveFramework)
-
 [![](https://visitcount.itsvg.in/api?id=JoeMonkila&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
