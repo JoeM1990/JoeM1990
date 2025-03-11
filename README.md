@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-monkila-b55634211) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/joemonkila) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%231DA1F2.svg?logo=WhatsaApp&logoColor=white)](https://api.whatsapp.com/send?phone=243816717846&texte=Bonjour_Monkila) 
+[![Medium](https://img.shields.io/badge/Medium-%231DA1F2.svg?logo=Medium&logoColor=white)](https://medium.com/@joemonkila) 
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415359/60631/robot.gif?1660415359" width="30"/>𝕊𝕜𝕚𝕃𝕃𝕤</h2>
 <p align='center'> 
