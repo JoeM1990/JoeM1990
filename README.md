@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Software%20Engineer-Expertise-blue?style=flat-square" alt="Role">
   <img src="https://img.shields.io/badge/AI%20Solutions-Specialist-orange?style=flat-square" alt="Field">
 </p>
+
 ---
 
 ## À propos de moi
