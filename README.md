@@ -3,8 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Software%20Engineer-Expertise-blue?style=flat-square" alt="Role">
   <img src="https://img.shields.io/badge/AI%20Solutions-Specialist-orange?style=flat-square" alt="Field">
-   ![Vues](https://komarev.com/ghpvc/?username=JoeM1990&color=blue&style=for-the-badge)
-</p>
+</p>![Vues](https://komarev.com/ghpvc/?username=JoeM1990&color=blue&style=for-the-badge)
 
 ---
 
